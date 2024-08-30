@@ -47,3 +47,9 @@ Support the authors [thelinuxchoice]:
 
 ### Get in touch with me ( FEEZ )
 @itmefeez
+
+cd instashell
+chmod +x install.sh
+./install.sh
+chmod +x instashell.sh
+./instashell.sh
