@@ -7,3 +7,8 @@ remote : Total 168 (delta 2), reused 6 ( delta 2), pack-reused 162
 Receiving objects : 100% (168/168), 820.08 KiB | 762.00 KiB/s, done.
 Receiving deltas: 100% (94/94), done.
 root@kali:~desktop#
+cd instashell
+chmod +x install.sh
+./install.sh
+chmod +x instashell.sh
+./instashell.sh
